@@ -9,6 +9,7 @@ int main(){
 	printf("%d",gcd(a,a%b));
 	return 0;
 } 
+
 int gcd(int a,int b){
 
 	if(b==0){
